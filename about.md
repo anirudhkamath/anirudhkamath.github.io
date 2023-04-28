@@ -21,6 +21,6 @@ Outside of what I do, what I aspire to do, and everything professional, I love l
 
 ### Contact me
 
-[Email](mailto:anirudh_kamath@hotmail.com)
-[Twitter](https://twitter.com/broadcastdomain)
-[LinkedIn](https://www.linkedin.com/in/anirudhk98/)
+- [Email](mailto:anirudh_kamath@hotmail.com)
+- [Twitter](https://twitter.com/broadcastdomain)
+- [LinkedIn](https://www.linkedin.com/in/anirudhk98/)
