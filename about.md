@@ -16,9 +16,10 @@ I am skilled in many disparate areas, some of which are:
   - network configuration changes (switching, routing, firewall, wireless features on Cisco and Fortinet hardware)
   - automated monitoring and alerting setups using Prometheus, Thanos, Alertmanager, and AWS Lambdas to run custom webhooks for automated actions, such as raising tickets on ITSM platforms
   - network data management: built application features on NetBox on Nautobot to allow engineers to document existing and new network information and enforce design standards on such data (ex: VLAN numbering, device hostnames, cable connections on core switches and routers, etc.)
-- AWS cloud solutions: EC2 (Autoscaling groups, VPC), ECS (Container orchestration), Lambda, S3, ECR, Systems Manager
+- AWS cloud solutions: EC2 (Autoscaling groups, VPC), ECS (Container orchestration), Lambda, S3, ECR, Systems Manager. Have built enterprise scale microservices and Lambdas, and managed AWS resources using CloudFormation templates.
 - Linux: Managing and administrating Linux virtual machines and bare metal servers. Experienced with package management (`apt`, `yum`, `rpm`), system observability (monitoring memory, CPU, disks, filesystems), network management (routing, interface management, DNS), and everything to do with general GNU Linux management.
 - DevOps and automation: Docker, Jenkins, Git webhooks (on GitHub, Bitbucket), bash, cmake, pyinvoke
+- Certifications: AWS Cloud Practitioner and Cisco Certified Network Administrator and DevNet certified
 
 ### Status quo
 
