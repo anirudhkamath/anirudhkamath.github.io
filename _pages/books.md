@@ -11,3 +11,6 @@ collection: books
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
+
+- Forrest Gump, by Winston Groom
+- QBism: The Future of Quantum Physics, by Hans Christian von Baeyer
