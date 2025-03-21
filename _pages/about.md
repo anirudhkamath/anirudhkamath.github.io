@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an \[incoming\] Ph.D. student in the Kahlert School of Computing at the University of Utah. My research interests fall in the broad union of networked systems and applied data management techniques. I am part of the [Flux Research Group](https://www.flux.utah.edu/) and the [Data Management Research Center for Human-centered, Efficient, and Scalable Systems](https://mod.cs.utah.edu/), where I am very fortunate to work with [Dr. Anna Fariha](https://afariha.github.io/) and [Dr. Jacobus Van der Merwe](https://users.cs.utah.edu/~kobus/).
+I am an \[incoming\] Ph.D. student in the Kahlert School of Computing at the University of Utah. My research interests fall in the broad union of networked systems and applied data management techniques. I am part of the [Flux Research Group](https://www.flux.utah.edu/) and the [Data Management Research Center for Human-centered, Efficient, and Scalable Systems](https://mod.cs.utah.edu/), where I am very fortunate to work with [Dr. Jacobus Van der Merwe](https://users.cs.utah.edu/~kobus/) and [Dr. Anna Fariha](https://afariha.github.io/) across both labs.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
