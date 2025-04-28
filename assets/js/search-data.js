@@ -54,6 +54,12 @@ ninja.data = [{
             },{id: "news-hello-world-website-is-up-sparkles-smile",
           title: 'Hello world! Website is up! :sparkles: :smile:',
           description: "",
+          section: "News",},{id: "news-awarded-student-travel-grant-for-the-nsf-aerpaw-community-workshop-25-at-nc-state-university-raleigh",
+          title: 'Awarded student travel grant for the NSF AERPAW Community Workshop ‘25 at NC...',
+          description: "",
+          section: "News",},{id: "news-pablo-will-be-presenting-chronoprof-at-wowmom-25",
+          title: 'Pablo will be presenting CHRONOPROF at WoWMoM ‘25!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
