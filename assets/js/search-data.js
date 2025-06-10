@@ -60,6 +60,9 @@ ninja.data = [{
           section: "News",},{id: "news-pablo-will-be-presenting-chronoprof-at-wowmom-25",
           title: 'Pablo will be presenting CHRONOPROF at WoWMoM ‘25!',
           description: "",
+          section: "News",},{id: "news-my-research-poster-on-alleviating-adverse-effects-on-tcp-throughput-in-5g-caused-by-interference-won-the-second-prize-in-the-poster-competition-at-the-nsf-aerpaw-community-workshop-25",
+          title: 'My research poster on “Alleviating adverse effects on TCP throughput in 5G caused...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
