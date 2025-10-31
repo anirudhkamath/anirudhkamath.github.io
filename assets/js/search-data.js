@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-research-poster-on-alleviating-adverse-effects-on-tcp-throughput-in-5g-caused-by-interference-won-the-second-prize-in-the-poster-competition-at-the-nsf-aerpaw-community-workshop-25",
           title: 'My research poster on “Alleviating adverse effects on TCP throughput in 5G caused...',
           description: "",
+          section: "News",},{id: "news-won-the-first-prize-in-the-aerpaw-autonomous-uav-student-challenge-congratulations-to-all-winners",
+          title: 'Won the first prize in the AERPAW Autonomous UAV Student Challenge. Congratulations to...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
