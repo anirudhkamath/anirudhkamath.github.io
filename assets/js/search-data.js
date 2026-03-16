@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-won-the-first-prize-in-the-aerpaw-autonomous-uav-student-challenge-congratulations-to-all-winners",
           title: 'Won the first prize in the AERPAW Autonomous UAV Student Challenge. Congratulations to...',
           description: "",
+          section: "News",},{id: "news-awarded-nsf-student-travel-grant-to-attend-the-open6g-ai-school-and-workshop-at-northeastern-university-boston",
+          title: 'Awarded NSF student travel grant to attend the Open6G+AI school and workshop at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
