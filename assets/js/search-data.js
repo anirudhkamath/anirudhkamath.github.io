@@ -69,6 +69,9 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-nsf-student-travel-grant-to-attend-the-open6g-ai-school-and-workshop-at-northeastern-university-boston",
           title: 'Awarded NSF student travel grant to attend the Open6G+AI school and workshop at...',
           description: "",
+          section: "News",},{id: "news-paper-on-uav-based-multi-modal-measurements-using-the-aerpaw-platform-is-accepted-to-ieee-data-descriptions-congratulations-to-all-co-authors",
+          title: 'Paper on UAV based multi-modal measurements using the AERPAW platform is accepted to...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
