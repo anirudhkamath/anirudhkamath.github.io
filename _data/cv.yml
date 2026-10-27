@@ -5,12 +5,12 @@
       value: Anirudh Kamath
     - name: Date of Birth
       value: 15th August 1998
-    - name: Languages
-      value: English, Hindi, Konkani
 
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D.
+      institution: University of Utah
     - title: M.S.
       institution: University of Utah
       year: 2025

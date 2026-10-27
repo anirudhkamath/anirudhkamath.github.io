@@ -694,6 +694,21 @@ footer.sticky-bottom {
 
 // Publications
 
+.news-scrollable {
+  max-height: calc(var(--news-visible-items, 3) * 2.5rem);
+  overflow-y: auto;
+
+  .table th,
+  .table td {
+    padding-bottom: 0.35rem;
+    padding-top: 0.35rem;
+  }
+}
+
+.about-publications {
+  padding-top: 1.5rem;
+}
+
 .publications {
   margin-top: 2rem;
 
@@ -727,7 +742,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.25rem;
 
       .preview {
       }
