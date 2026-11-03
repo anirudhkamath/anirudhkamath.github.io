@@ -7,7 +7,7 @@ first_name: Anirudh
 middle_name:
 last_name: Kamath
 contact_note: >
-  Please feel free to reach out via email, or via messenger pigeons.
+  Please feel free to reach out via email or LinkedIn<s>, or via messenger pigeons</s>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -47,10 +47,10 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
+footer_fixed: false
+search_enabled: false
 socials_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
